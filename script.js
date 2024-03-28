@@ -1,3 +1,4 @@
+// Criar conta no https://openweathermap.org/  para ter acesso a sua API key
 document.querySelector('.busca').addEventListener('submit', async (event)=>{
     event.preventDefault();
     
